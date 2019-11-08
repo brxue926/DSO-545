@@ -1,6 +1,6 @@
 # DSO-545-Python
 
-Several data projects and homework code I wrote with Python in DSO545 class
+Several data projects and assignment code I wrote with Python in DSO545 class
 (University of Southern California, Master of Science in Business Analytics)
 
 Course material includes:
